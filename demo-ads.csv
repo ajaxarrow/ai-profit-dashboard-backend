@@ -1,0 +1,811 @@
+date,platform,campaign,spend,impressions,clicks,conversions,conversion_value,product_sku
+2026-08-16,google,Google Shopping · Pump Pro,0.22,38,0,0.01,0.7,DW-PUMP-PRO
+2026-08-16,google,Google Shopping · Drum Bearing Kit,0.04,8,0,0.01,0.33,WM-BEAR-KIT
+2026-08-16,google,Google Performance Max · All Parts,0.41,40,0,0.02,1.09,
+2026-08-16,google,Google Search · Brand,0.05,20,0,0.01,0.58,
+2026-08-16,google,Google Search · Generic Parts,0.17,9,0,0.01,0.66,
+2026-08-16,meta,Meta · Prospecting Broad,0.24,21,0,0.01,0.32,
+2026-08-16,meta,Meta · Retargeting 30d,0.09,9,0,0.01,0.57,
+2026-08-16,meta,Meta · Catalog Advantage+,0.12,11,0,0.01,0.39,
+2026-08-16,tiktok,TikTok · Spark Ads Creators,0.09,18,0,0.0,0.07,
+2026-08-17,google,Google Shopping · Pump Pro,0.24,33,0,0.01,0.68,DW-PUMP-PRO
+2026-08-17,google,Google Shopping · Drum Bearing Kit,0.06,10,0,0.01,0.51,WM-BEAR-KIT
+2026-08-17,google,Google Performance Max · All Parts,0.49,52,0,0.03,1.57,
+2026-08-17,google,Google Search · Brand,0.07,18,0,0.01,0.89,
+2026-08-17,google,Google Search · Generic Parts,0.21,14,0,0.01,0.75,
+2026-08-17,meta,Meta · Prospecting Broad,0.38,28,0,0.01,0.6,
+2026-08-17,meta,Meta · Retargeting 30d,0.1,10,0,0.01,0.65,
+2026-08-17,meta,Meta · Catalog Advantage+,0.22,27,0,0.01,0.74,
+2026-08-17,tiktok,TikTok · Spark Ads Creators,0.14,36,0,0.0,0.1,
+2026-08-18,google,Google Shopping · Pump Pro,0.29,35,0,0.02,1.02,DW-PUMP-PRO
+2026-08-18,google,Google Shopping · Drum Bearing Kit,0.06,9,0,0.01,0.57,WM-BEAR-KIT
+2026-08-18,google,Google Performance Max · All Parts,0.53,84,1,0.02,1.37,
+2026-08-18,google,Google Search · Brand,0.06,20,0,0.01,0.82,
+2026-08-18,google,Google Search · Generic Parts,0.25,17,0,0.02,1.0,
+2026-08-18,meta,Meta · Prospecting Broad,0.41,41,0,0.01,0.68,
+2026-08-18,meta,Meta · Retargeting 30d,0.11,17,0,0.01,0.74,
+2026-08-18,meta,Meta · Catalog Advantage+,0.19,18,0,0.01,0.65,
+2026-08-18,tiktok,TikTok · Spark Ads Creators,0.1,19,0,0.0,0.07,
+2026-08-19,google,Google Shopping · Pump Pro,0.29,49,0,0.01,0.77,DW-PUMP-PRO
+2026-08-19,google,Google Shopping · Drum Bearing Kit,0.05,9,0,0.01,0.46,WM-BEAR-KIT
+2026-08-19,google,Google Performance Max · All Parts,0.49,58,0,0.02,1.39,
+2026-08-19,google,Google Search · Brand,0.07,16,0,0.01,0.79,
+2026-08-19,google,Google Search · Generic Parts,0.22,19,0,0.01,0.69,
+2026-08-19,meta,Meta · Prospecting Broad,0.4,48,0,0.01,0.67,
+2026-08-19,meta,Meta · Retargeting 30d,0.12,13,0,0.01,0.79,
+2026-08-19,meta,Meta · Catalog Advantage+,0.2,24,0,0.01,0.74,
+2026-08-19,tiktok,TikTok · Spark Ads Creators,0.11,28,0,0.0,0.08,
+2026-08-20,google,Google Shopping · Pump Pro,0.23,25,0,0.01,0.78,DW-PUMP-PRO
+2026-08-20,google,Google Shopping · Drum Bearing Kit,0.07,13,0,0.01,0.56,WM-BEAR-KIT
+2026-08-20,google,Google Performance Max · All Parts,0.43,40,0,0.02,1.26,
+2026-08-20,google,Google Search · Brand,0.08,33,0,0.02,0.94,
+2026-08-20,google,Google Search · Generic Parts,0.24,16,0,0.01,0.87,
+2026-08-20,meta,Meta · Prospecting Broad,0.42,47,0,0.01,0.54,
+2026-08-20,meta,Meta · Retargeting 30d,0.1,16,0,0.01,0.68,
+2026-08-20,meta,Meta · Catalog Advantage+,0.18,17,0,0.01,0.72,
+2026-08-20,tiktok,TikTok · Spark Ads Creators,0.1,21,0,0.0,0.07,
+2026-08-21,google,Google Shopping · Pump Pro,0.25,33,0,0.01,0.69,DW-PUMP-PRO
+2026-08-21,google,Google Shopping · Drum Bearing Kit,0.06,10,0,0.01,0.51,WM-BEAR-KIT
+2026-08-21,google,Google Performance Max · All Parts,0.41,54,0,0.02,1.11,
+2026-08-21,google,Google Search · Brand,0.07,21,0,0.01,0.79,
+2026-08-21,google,Google Search · Generic Parts,0.27,18,0,0.01,0.85,
+2026-08-21,meta,Meta · Prospecting Broad,0.37,32,0,0.01,0.57,
+2026-08-21,meta,Meta · Retargeting 30d,0.1,12,0,0.01,0.62,
+2026-08-21,meta,Meta · Catalog Advantage+,0.21,20,0,0.01,0.69,
+2026-08-21,tiktok,TikTok · Spark Ads Creators,0.14,29,0,0.0,0.1,
+2026-08-22,google,Google Shopping · Pump Pro,0.22,28,0,0.01,0.62,DW-PUMP-PRO
+2026-08-22,google,Google Shopping · Drum Bearing Kit,0.05,8,0,0.01,0.42,WM-BEAR-KIT
+2026-08-22,google,Google Performance Max · All Parts,0.43,45,0,0.02,1.04,
+2026-08-22,google,Google Search · Brand,0.05,19,0,0.01,0.58,
+2026-08-22,google,Google Search · Generic Parts,0.14,9,0,0.01,0.44,
+2026-08-22,meta,Meta · Prospecting Broad,0.28,31,0,0.01,0.43,
+2026-08-22,meta,Meta · Retargeting 30d,0.07,12,0,0.01,0.56,
+2026-08-22,meta,Meta · Catalog Advantage+,0.13,11,0,0.01,0.41,
+2026-08-22,tiktok,TikTok · Spark Ads Creators,0.11,28,0,0.0,0.09,
+2026-08-23,google,Google Shopping · Pump Pro,0.22,31,0,0.01,0.7,DW-PUMP-PRO
+2026-08-23,google,Google Shopping · Drum Bearing Kit,0.04,6,0,0.01,0.34,WM-BEAR-KIT
+2026-08-23,google,Google Performance Max · All Parts,0.34,33,0,0.02,0.95,
+2026-08-23,google,Google Search · Brand,0.06,16,0,0.01,0.67,
+2026-08-23,google,Google Search · Generic Parts,0.18,9,0,0.01,0.56,
+2026-08-23,meta,Meta · Prospecting Broad,0.32,33,0,0.01,0.51,
+2026-08-23,meta,Meta · Retargeting 30d,0.07,8,0,0.01,0.56,
+2026-08-23,meta,Meta · Catalog Advantage+,0.17,21,0,0.01,0.55,
+2026-08-23,tiktok,TikTok · Spark Ads Creators,0.1,18,0,0.0,0.07,
+2026-08-24,google,Google Shopping · Pump Pro,0.26,30,0,0.01,0.82,DW-PUMP-PRO
+2026-08-24,google,Google Shopping · Drum Bearing Kit,0.06,12,0,0.01,0.57,WM-BEAR-KIT
+2026-08-24,google,Google Performance Max · All Parts,0.51,56,0,0.02,1.32,
+2026-08-24,google,Google Search · Brand,0.08,24,0,0.02,1.06,
+2026-08-24,google,Google Search · Generic Parts,0.19,13,0,0.01,0.62,
+2026-08-24,meta,Meta · Prospecting Broad,0.38,32,0,0.01,0.54,
+2026-08-24,meta,Meta · Retargeting 30d,0.08,10,0,0.01,0.65,
+2026-08-24,meta,Meta · Catalog Advantage+,0.17,14,0,0.01,0.66,
+2026-08-24,tiktok,TikTok · Spark Ads Creators,0.13,35,0,0.0,0.1,
+2026-08-25,google,Google Shopping · Pump Pro,0.29,38,0,0.01,0.9,DW-PUMP-PRO
+2026-08-25,google,Google Shopping · Drum Bearing Kit,0.05,8,0,0.01,0.4,WM-BEAR-KIT
+2026-08-25,google,Google Performance Max · All Parts,0.42,47,0,0.02,1.2,
+2026-08-25,google,Google Search · Brand,0.07,16,0,0.01,0.89,
+2026-08-25,google,Google Search · Generic Parts,0.22,14,0,0.01,0.7,
+2026-08-25,meta,Meta · Prospecting Broad,0.35,36,0,0.01,0.47,
+2026-08-25,meta,Meta · Retargeting 30d,0.11,15,0,0.01,0.72,
+2026-08-25,meta,Meta · Catalog Advantage+,0.2,24,0,0.01,0.73,
+2026-08-25,tiktok,TikTok · Spark Ads Creators,0.14,31,0,0.0,0.09,
+2026-08-26,google,Google Shopping · Pump Pro,0.31,56,0,0.02,0.98,DW-PUMP-PRO
+2026-08-26,google,Google Shopping · Drum Bearing Kit,0.07,14,0,0.01,0.56,WM-BEAR-KIT
+2026-08-26,google,Google Performance Max · All Parts,0.59,72,1,0.03,1.88,
+2026-08-26,google,Google Search · Brand,0.09,21,0,0.02,1.14,
+2026-08-26,google,Google Search · Generic Parts,0.24,17,0,0.01,0.79,
+2026-08-26,meta,Meta · Prospecting Broad,0.42,37,0,0.01,0.68,
+2026-08-26,meta,Meta · Retargeting 30d,0.08,8,0,0.01,0.63,
+2026-08-26,meta,Meta · Catalog Advantage+,0.2,17,0,0.01,0.77,
+2026-08-26,tiktok,TikTok · Spark Ads Creators,0.14,33,0,0.0,0.09,
+2026-08-27,google,Google Shopping · Pump Pro,0.27,37,0,0.01,0.75,DW-PUMP-PRO
+2026-08-27,google,Google Shopping · Drum Bearing Kit,0.06,8,0,0.01,0.59,WM-BEAR-KIT
+2026-08-27,google,Google Performance Max · All Parts,0.42,48,0,0.02,1.33,
+2026-08-27,google,Google Search · Brand,0.08,27,0,0.02,1.16,
+2026-08-27,google,Google Search · Generic Parts,0.19,10,0,0.01,0.68,
+2026-08-27,meta,Meta · Prospecting Broad,0.41,47,0,0.01,0.68,
+2026-08-27,meta,Meta · Retargeting 30d,0.08,10,0,0.01,0.57,
+2026-08-27,meta,Meta · Catalog Advantage+,0.19,16,0,0.01,0.76,
+2026-08-27,tiktok,TikTok · Spark Ads Creators,0.13,20,0,0.0,0.1,
+2026-08-28,google,Google Shopping · Pump Pro,0.27,42,0,0.01,0.71,DW-PUMP-PRO
+2026-08-28,google,Google Shopping · Drum Bearing Kit,0.06,10,0,0.01,0.6,WM-BEAR-KIT
+2026-08-28,google,Google Performance Max · All Parts,0.52,51,0,0.02,1.25,
+2026-08-28,google,Google Search · Brand,0.07,17,0,0.02,0.99,
+2026-08-28,google,Google Search · Generic Parts,0.24,21,0,0.01,0.88,
+2026-08-28,meta,Meta · Prospecting Broad,0.34,39,0,0.01,0.53,
+2026-08-28,meta,Meta · Retargeting 30d,0.09,12,0,0.01,0.67,
+2026-08-28,meta,Meta · Catalog Advantage+,0.16,17,0,0.01,0.52,
+2026-08-28,tiktok,TikTok · Spark Ads Creators,0.13,35,0,0.0,0.09,
+2026-08-29,google,Google Shopping · Pump Pro,0.21,30,0,0.01,0.71,DW-PUMP-PRO
+2026-08-29,google,Google Shopping · Drum Bearing Kit,0.04,4,0,0.01,0.34,WM-BEAR-KIT
+2026-08-29,google,Google Performance Max · All Parts,0.36,48,0,0.01,0.87,
+2026-08-29,google,Google Search · Brand,0.05,16,0,0.01,0.69,
+2026-08-29,google,Google Search · Generic Parts,0.2,16,0,0.01,0.68,
+2026-08-29,meta,Meta · Prospecting Broad,0.33,29,0,0.01,0.51,
+2026-08-29,meta,Meta · Retargeting 30d,0.08,9,0,0.01,0.64,
+2026-08-29,meta,Meta · Catalog Advantage+,0.13,12,0,0.01,0.5,
+2026-08-29,tiktok,TikTok · Spark Ads Creators,0.08,12,0,0.0,0.06,
+2026-08-30,google,Google Shopping · Pump Pro,0.16,31,0,0.01,0.57,DW-PUMP-PRO
+2026-08-30,google,Google Shopping · Drum Bearing Kit,0.04,6,0,0.01,0.38,WM-BEAR-KIT
+2026-08-30,google,Google Performance Max · All Parts,0.35,42,0,0.01,0.85,
+2026-08-30,google,Google Search · Brand,0.06,22,0,0.01,0.72,
+2026-08-30,google,Google Search · Generic Parts,0.18,12,0,0.01,0.66,
+2026-08-30,meta,Meta · Prospecting Broad,0.3,29,0,0.01,0.41,
+2026-08-30,meta,Meta · Retargeting 30d,0.07,8,0,0.01,0.47,
+2026-08-30,meta,Meta · Catalog Advantage+,0.17,18,0,0.01,0.69,
+2026-08-30,tiktok,TikTok · Spark Ads Creators,0.11,25,0,0.0,0.09,
+2026-08-31,google,Google Shopping · Pump Pro,0.25,39,0,0.01,0.72,DW-PUMP-PRO
+2026-08-31,google,Google Shopping · Drum Bearing Kit,0.06,7,0,0.01,0.52,WM-BEAR-KIT
+2026-08-31,google,Google Performance Max · All Parts,0.45,46,0,0.02,1.09,
+2026-08-31,google,Google Search · Brand,0.07,17,0,0.02,0.96,
+2026-08-31,google,Google Search · Generic Parts,0.19,12,0,0.01,0.74,
+2026-08-31,meta,Meta · Prospecting Broad,0.43,35,0,0.01,0.65,
+2026-08-31,meta,Meta · Retargeting 30d,0.1,16,0,0.01,0.64,
+2026-08-31,meta,Meta · Catalog Advantage+,0.19,25,0,0.01,0.58,
+2026-08-31,tiktok,TikTok · Spark Ads Creators,0.12,22,0,0.0,0.07,
+2026-09-01,google,Google Shopping · Pump Pro,0.21,42,0,0.01,0.59,DW-PUMP-PRO
+2026-09-01,google,Google Shopping · Drum Bearing Kit,0.07,10,0,0.01,0.68,WM-BEAR-KIT
+2026-09-01,google,Google Performance Max · All Parts,0.5,55,0,0.02,1.53,
+2026-09-01,google,Google Search · Brand,0.07,16,0,0.01,0.85,
+2026-09-01,google,Google Search · Generic Parts,0.2,14,0,0.01,0.69,
+2026-09-01,meta,Meta · Prospecting Broad,0.47,65,0,0.01,0.67,
+2026-09-01,meta,Meta · Retargeting 30d,0.12,18,0,0.01,0.85,
+2026-09-01,meta,Meta · Catalog Advantage+,0.19,18,0,0.01,0.75,
+2026-09-01,tiktok,TikTok · Spark Ads Creators,0.11,24,0,0.0,0.08,
+2026-09-02,google,Google Shopping · Pump Pro,0.21,35,0,0.01,0.64,DW-PUMP-PRO
+2026-09-02,google,Google Shopping · Drum Bearing Kit,0.07,10,0,0.01,0.69,WM-BEAR-KIT
+2026-09-02,google,Google Performance Max · All Parts,0.49,51,0,0.02,1.51,
+2026-09-02,google,Google Search · Brand,0.09,21,0,0.02,0.97,
+2026-09-02,google,Google Search · Generic Parts,0.25,14,0,0.01,0.78,
+2026-09-02,meta,Meta · Prospecting Broad,0.4,33,0,0.01,0.54,
+2026-09-02,meta,Meta · Retargeting 30d,0.09,13,0,0.01,0.63,
+2026-09-02,meta,Meta · Catalog Advantage+,0.18,21,0,0.01,0.59,
+2026-09-02,tiktok,TikTok · Spark Ads Creators,0.14,26,0,0.0,0.11,
+2026-09-03,google,Google Shopping · Pump Pro,0.21,27,0,0.01,0.63,DW-PUMP-PRO
+2026-09-03,google,Google Shopping · Drum Bearing Kit,0.05,10,0,0.01,0.46,WM-BEAR-KIT
+2026-09-03,google,Google Performance Max · All Parts,0.48,56,0,0.02,1.31,
+2026-09-03,google,Google Search · Brand,0.09,30,0,0.02,1.2,
+2026-09-03,google,Google Search · Generic Parts,0.21,14,0,0.01,0.68,
+2026-09-03,meta,Meta · Prospecting Broad,0.41,35,0,0.01,0.64,
+2026-09-03,meta,Meta · Retargeting 30d,0.08,11,0,0.01,0.54,
+2026-09-03,meta,Meta · Catalog Advantage+,0.16,22,0,0.01,0.51,
+2026-09-03,tiktok,TikTok · Spark Ads Creators,0.14,36,0,0.0,0.08,
+2026-09-04,google,Google Shopping · Pump Pro,0.29,34,0,0.02,1.0,DW-PUMP-PRO
+2026-09-04,google,Google Shopping · Drum Bearing Kit,0.05,7,0,0.01,0.45,WM-BEAR-KIT
+2026-09-04,google,Google Performance Max · All Parts,0.56,71,1,0.02,1.34,
+2026-09-04,google,Google Search · Brand,0.06,16,0,0.01,0.76,
+2026-09-04,google,Google Search · Generic Parts,0.2,15,0,0.01,0.66,
+2026-09-04,meta,Meta · Prospecting Broad,0.34,37,0,0.01,0.41,
+2026-09-04,meta,Meta · Retargeting 30d,0.11,17,0,0.01,0.79,
+2026-09-04,meta,Meta · Catalog Advantage+,0.17,18,0,0.01,0.62,
+2026-09-04,tiktok,TikTok · Spark Ads Creators,0.12,24,0,0.0,0.09,
+2026-09-05,google,Google Shopping · Pump Pro,0.18,28,0,0.01,0.51,DW-PUMP-PRO
+2026-09-05,google,Google Shopping · Drum Bearing Kit,0.04,8,0,0.01,0.39,WM-BEAR-KIT
+2026-09-05,google,Google Performance Max · All Parts,0.36,39,0,0.01,0.88,
+2026-09-05,google,Google Search · Brand,0.05,14,0,0.01,0.73,
+2026-09-05,google,Google Search · Generic Parts,0.19,12,0,0.01,0.57,
+2026-09-05,meta,Meta · Prospecting Broad,0.31,34,0,0.01,0.44,
+2026-09-05,meta,Meta · Retargeting 30d,0.08,10,0,0.01,0.62,
+2026-09-05,meta,Meta · Catalog Advantage+,0.14,12,0,0.01,0.44,
+2026-09-05,tiktok,TikTok · Spark Ads Creators,0.11,22,0,0.0,0.07,
+2026-09-06,google,Google Shopping · Pump Pro,0.17,30,0,0.01,0.45,DW-PUMP-PRO
+2026-09-06,google,Google Shopping · Drum Bearing Kit,0.05,6,0,0.01,0.4,WM-BEAR-KIT
+2026-09-06,google,Google Performance Max · All Parts,0.43,42,0,0.02,1.34,
+2026-09-06,google,Google Search · Brand,0.06,15,0,0.01,0.68,
+2026-09-06,google,Google Search · Generic Parts,0.14,8,0,0.01,0.43,
+2026-09-06,meta,Meta · Prospecting Broad,0.25,20,0,0.01,0.32,
+2026-09-06,meta,Meta · Retargeting 30d,0.07,9,0,0.01,0.47,
+2026-09-06,meta,Meta · Catalog Advantage+,0.12,13,0,0.01,0.49,
+2026-09-06,tiktok,TikTok · Spark Ads Creators,0.1,25,0,0.0,0.07,
+2026-09-07,google,Google Shopping · Pump Pro,0.23,35,0,0.01,0.75,DW-PUMP-PRO
+2026-09-07,google,Google Shopping · Drum Bearing Kit,0.05,8,0,0.01,0.44,WM-BEAR-KIT
+2026-09-07,google,Google Performance Max · All Parts,0.41,49,0,0.02,1.1,
+2026-09-07,google,Google Search · Brand,0.06,14,0,0.01,0.67,
+2026-09-07,google,Google Search · Generic Parts,0.24,18,0,0.01,0.82,
+2026-09-07,meta,Meta · Prospecting Broad,0.38,40,0,0.01,0.51,
+2026-09-07,meta,Meta · Retargeting 30d,0.08,13,0,0.01,0.54,
+2026-09-07,meta,Meta · Catalog Advantage+,0.19,21,0,0.01,0.67,
+2026-09-07,tiktok,TikTok · Spark Ads Creators,0.12,20,0,0.0,0.09,
+2026-09-08,google,Google Shopping · Pump Pro,0.22,41,0,0.01,0.57,DW-PUMP-PRO
+2026-09-08,google,Google Shopping · Drum Bearing Kit,0.07,11,0,0.01,0.67,WM-BEAR-KIT
+2026-09-08,google,Google Performance Max · All Parts,0.59,54,1,0.02,1.53,
+2026-09-08,google,Google Search · Brand,0.07,23,0,0.02,1.01,
+2026-09-08,google,Google Search · Generic Parts,0.24,22,0,0.02,0.95,
+2026-09-08,meta,Meta · Prospecting Broad,0.4,32,0,0.01,0.49,
+2026-09-08,meta,Meta · Retargeting 30d,0.1,11,0,0.01,0.77,
+2026-09-08,meta,Meta · Catalog Advantage+,0.17,20,0,0.01,0.57,
+2026-09-08,tiktok,TikTok · Spark Ads Creators,0.12,33,0,0.0,0.07,
+2026-09-09,google,Google Shopping · Pump Pro,0.24,31,0,0.01,0.74,DW-PUMP-PRO
+2026-09-09,google,Google Shopping · Drum Bearing Kit,0.05,10,0,0.01,0.54,WM-BEAR-KIT
+2026-09-09,google,Google Performance Max · All Parts,0.52,76,1,0.02,1.41,
+2026-09-09,google,Google Search · Brand,0.07,18,0,0.01,0.86,
+2026-09-09,google,Google Search · Generic Parts,0.27,20,0,0.01,0.89,
+2026-09-09,meta,Meta · Prospecting Broad,0.47,56,0,0.01,0.69,
+2026-09-09,meta,Meta · Retargeting 30d,0.09,14,0,0.01,0.7,
+2026-09-09,meta,Meta · Catalog Advantage+,0.24,22,0,0.01,0.78,
+2026-09-09,tiktok,TikTok · Spark Ads Creators,0.11,27,0,0.0,0.07,
+2026-09-10,google,Google Shopping · Pump Pro,0.22,26,0,0.01,0.59,DW-PUMP-PRO
+2026-09-10,google,Google Shopping · Drum Bearing Kit,0.06,11,0,0.01,0.63,WM-BEAR-KIT
+2026-09-10,google,Google Performance Max · All Parts,0.56,56,0,0.03,1.58,
+2026-09-10,google,Google Search · Brand,0.09,30,0,0.02,1.18,
+2026-09-10,google,Google Search · Generic Parts,0.2,16,0,0.01,0.77,
+2026-09-10,meta,Meta · Prospecting Broad,0.43,35,0,0.01,0.51,
+2026-09-10,meta,Meta · Retargeting 30d,0.11,13,0,0.01,0.84,
+2026-09-10,meta,Meta · Catalog Advantage+,0.21,21,0,0.01,0.81,
+2026-09-10,tiktok,TikTok · Spark Ads Creators,0.11,24,0,0.0,0.07,
+2026-09-11,google,Google Shopping · Pump Pro,0.23,27,0,0.01,0.78,DW-PUMP-PRO
+2026-09-11,google,Google Shopping · Drum Bearing Kit,0.05,9,0,0.01,0.41,WM-BEAR-KIT
+2026-09-11,google,Google Performance Max · All Parts,0.53,46,0,0.02,1.25,
+2026-09-11,google,Google Search · Brand,0.07,16,0,0.01,0.77,
+2026-09-11,google,Google Search · Generic Parts,0.25,20,0,0.01,0.77,
+2026-09-11,meta,Meta · Prospecting Broad,0.42,51,0,0.01,0.65,
+2026-09-11,meta,Meta · Retargeting 30d,0.1,13,0,0.01,0.67,
+2026-09-11,meta,Meta · Catalog Advantage+,0.16,17,0,0.01,0.58,
+2026-09-11,tiktok,TikTok · Spark Ads Creators,0.1,21,0,0.0,0.07,
+2026-09-12,google,Google Shopping · Pump Pro,0.21,35,0,0.01,0.58,DW-PUMP-PRO
+2026-09-12,google,Google Shopping · Drum Bearing Kit,0.05,8,0,0.01,0.48,WM-BEAR-KIT
+2026-09-12,google,Google Performance Max · All Parts,0.34,51,0,0.02,0.94,
+2026-09-12,google,Google Search · Brand,0.07,18,0,0.01,0.8,
+2026-09-12,google,Google Search · Generic Parts,0.15,10,0,0.01,0.57,
+2026-09-12,meta,Meta · Prospecting Broad,0.32,28,0,0.01,0.45,
+2026-09-12,meta,Meta · Retargeting 30d,0.07,9,0,0.01,0.45,
+2026-09-12,meta,Meta · Catalog Advantage+,0.12,10,0,0.01,0.41,
+2026-09-12,tiktok,TikTok · Spark Ads Creators,0.1,25,0,0.0,0.07,
+2026-09-13,google,Google Shopping · Pump Pro,0.21,27,0,0.01,0.71,DW-PUMP-PRO
+2026-09-13,google,Google Shopping · Drum Bearing Kit,0.05,8,0,0.01,0.37,WM-BEAR-KIT
+2026-09-13,google,Google Performance Max · All Parts,0.45,51,0,0.02,1.32,
+2026-09-13,google,Google Search · Brand,0.05,16,0,0.01,0.56,
+2026-09-13,google,Google Search · Generic Parts,0.21,11,0,0.01,0.82,
+2026-09-13,meta,Meta · Prospecting Broad,0.33,26,0,0.01,0.41,
+2026-09-13,meta,Meta · Retargeting 30d,0.09,10,0,0.01,0.64,
+2026-09-13,meta,Meta · Catalog Advantage+,0.15,20,0,0.01,0.56,
+2026-09-13,tiktok,TikTok · Spark Ads Creators,0.1,20,0,0.0,0.07,
+2026-09-14,google,Google Shopping · Pump Pro,0.3,49,0,0.01,0.84,DW-PUMP-PRO
+2026-09-14,google,Google Shopping · Drum Bearing Kit,0.06,11,0,0.01,0.61,WM-BEAR-KIT
+2026-09-14,google,Google Performance Max · All Parts,0.48,51,0,0.02,1.15,
+2026-09-14,google,Google Search · Brand,0.06,16,0,0.01,0.68,
+2026-09-14,google,Google Search · Generic Parts,0.24,18,0,0.01,0.77,
+2026-09-14,meta,Meta · Prospecting Broad,0.45,51,0,0.01,0.68,
+2026-09-14,meta,Meta · Retargeting 30d,0.09,13,0,0.01,0.62,
+2026-09-14,meta,Meta · Catalog Advantage+,0.2,27,0,0.01,0.68,
+2026-09-14,tiktok,TikTok · Spark Ads Creators,0.13,32,0,0.0,0.09,
+2026-09-15,google,Google Shopping · Pump Pro,0.25,38,0,0.01,0.66,DW-PUMP-PRO
+2026-09-15,google,Google Shopping · Drum Bearing Kit,0.05,7,0,0.01,0.46,WM-BEAR-KIT
+2026-09-15,google,Google Performance Max · All Parts,0.6,54,1,0.03,1.88,
+2026-09-15,google,Google Search · Brand,0.07,25,0,0.01,0.8,
+2026-09-15,google,Google Search · Generic Parts,0.22,20,0,0.01,0.7,
+2026-09-15,meta,Meta · Prospecting Broad,0.33,26,0,0.01,0.39,
+2026-09-15,meta,Meta · Retargeting 30d,0.09,10,0,0.01,0.57,
+2026-09-15,meta,Meta · Catalog Advantage+,0.18,22,0,0.01,0.65,
+2026-09-15,tiktok,TikTok · Spark Ads Creators,0.1,24,0,0.0,0.07,
+2026-09-16,google,Google Shopping · Pump Pro,0.26,31,0,0.01,0.7,DW-PUMP-PRO
+2026-09-16,google,Google Shopping · Drum Bearing Kit,0.05,8,0,0.01,0.46,WM-BEAR-KIT
+2026-09-16,google,Google Performance Max · All Parts,0.58,66,1,0.03,1.68,
+2026-09-16,google,Google Search · Brand,0.08,24,0,0.02,1.04,
+2026-09-16,google,Google Search · Generic Parts,0.21,13,0,0.01,0.61,
+2026-09-16,meta,Meta · Prospecting Broad,0.36,44,0,0.01,0.51,
+2026-09-16,meta,Meta · Retargeting 30d,0.09,10,0,0.01,0.72,
+2026-09-16,meta,Meta · Catalog Advantage+,0.21,18,0,0.01,0.63,
+2026-09-16,tiktok,TikTok · Spark Ads Creators,0.14,32,0,0.0,0.1,
+2026-09-17,google,Google Shopping · Pump Pro,0.26,35,0,0.01,0.77,DW-PUMP-PRO
+2026-09-17,google,Google Shopping · Drum Bearing Kit,0.06,13,0,0.01,0.51,WM-BEAR-KIT
+2026-09-17,google,Google Performance Max · All Parts,0.54,62,0,0.02,1.48,
+2026-09-17,google,Google Search · Brand,0.06,17,0,0.01,0.72,
+2026-09-17,google,Google Search · Generic Parts,0.26,19,0,0.01,0.9,
+2026-09-17,meta,Meta · Prospecting Broad,0.47,42,0,0.01,0.56,
+2026-09-17,meta,Meta · Retargeting 30d,0.1,11,0,0.01,0.77,
+2026-09-17,meta,Meta · Catalog Advantage+,0.21,20,0,0.01,0.85,
+2026-09-17,tiktok,TikTok · Spark Ads Creators,0.11,21,0,0.0,0.07,
+2026-09-18,google,Google Shopping · Pump Pro,0.24,45,0,0.01,0.73,DW-PUMP-PRO
+2026-09-18,google,Google Shopping · Drum Bearing Kit,0.07,13,0,0.01,0.64,WM-BEAR-KIT
+2026-09-18,google,Google Performance Max · All Parts,0.47,64,0,0.02,1.29,
+2026-09-18,google,Google Search · Brand,0.08,20,0,0.02,1.08,
+2026-09-18,google,Google Search · Generic Parts,0.22,13,0,0.01,0.74,
+2026-09-18,meta,Meta · Prospecting Broad,0.41,49,0,0.01,0.52,
+2026-09-18,meta,Meta · Retargeting 30d,0.1,11,0,0.01,0.62,
+2026-09-18,meta,Meta · Catalog Advantage+,0.16,18,0,0.01,0.61,
+2026-09-18,tiktok,TikTok · Spark Ads Creators,0.12,23,0,0.0,0.08,
+2026-09-19,google,Google Shopping · Pump Pro,0.23,34,0,0.01,0.8,DW-PUMP-PRO
+2026-09-19,google,Google Shopping · Drum Bearing Kit,0.05,10,0,0.01,0.48,WM-BEAR-KIT
+2026-09-19,google,Google Performance Max · All Parts,0.37,54,0,0.02,0.93,
+2026-09-19,google,Google Search · Brand,0.05,17,0,0.01,0.71,
+2026-09-19,google,Google Search · Generic Parts,0.19,15,0,0.01,0.65,
+2026-09-19,meta,Meta · Prospecting Broad,0.26,28,0,0.0,0.29,
+2026-09-19,meta,Meta · Retargeting 30d,0.09,16,0,0.01,0.72,
+2026-09-19,meta,Meta · Catalog Advantage+,0.16,22,0,0.01,0.5,
+2026-09-19,tiktok,TikTok · Spark Ads Creators,0.11,16,0,0.0,0.07,
+2026-09-20,google,Google Shopping · Pump Pro,0.18,32,0,0.01,0.62,DW-PUMP-PRO
+2026-09-20,google,Google Shopping · Drum Bearing Kit,0.04,6,0,0.01,0.41,WM-BEAR-KIT
+2026-09-20,google,Google Performance Max · All Parts,0.37,46,0,0.01,0.93,
+2026-09-20,google,Google Search · Brand,0.05,17,0,0.01,0.62,
+2026-09-20,google,Google Search · Generic Parts,0.14,9,0,0.01,0.57,
+2026-09-20,meta,Meta · Prospecting Broad,0.25,24,0,0.01,0.31,
+2026-09-20,meta,Meta · Retargeting 30d,0.08,8,0,0.01,0.53,
+2026-09-20,meta,Meta · Catalog Advantage+,0.17,19,0,0.01,0.62,
+2026-09-20,tiktok,TikTok · Spark Ads Creators,0.1,25,0,0.0,0.06,
+2026-09-21,google,Google Shopping · Pump Pro,0.26,38,0,0.01,0.78,DW-PUMP-PRO
+2026-09-21,google,Google Shopping · Drum Bearing Kit,0.06,8,0,0.01,0.54,WM-BEAR-KIT
+2026-09-21,google,Google Performance Max · All Parts,0.45,46,0,0.02,1.19,
+2026-09-21,google,Google Search · Brand,0.09,21,0,0.02,0.97,
+2026-09-21,google,Google Search · Generic Parts,0.26,16,0,0.01,0.88,
+2026-09-21,meta,Meta · Prospecting Broad,0.42,50,0,0.01,0.47,
+2026-09-21,meta,Meta · Retargeting 30d,0.08,11,0,0.01,0.65,
+2026-09-21,meta,Meta · Catalog Advantage+,0.23,23,0,0.01,0.79,
+2026-09-21,tiktok,TikTok · Spark Ads Creators,0.15,30,0,0.0,0.11,
+2026-09-22,google,Google Shopping · Pump Pro,0.29,42,0,0.02,1.0,DW-PUMP-PRO
+2026-09-22,google,Google Shopping · Drum Bearing Kit,0.06,8,0,0.01,0.45,WM-BEAR-KIT
+2026-09-22,google,Google Performance Max · All Parts,0.6,59,1,0.03,1.57,
+2026-09-22,google,Google Search · Brand,0.08,20,0,0.02,1.08,
+2026-09-22,google,Google Search · Generic Parts,0.24,18,0,0.02,0.95,
+2026-09-22,meta,Meta · Prospecting Broad,0.47,50,0,0.01,0.69,
+2026-09-22,meta,Meta · Retargeting 30d,0.1,11,0,0.01,0.75,
+2026-09-22,meta,Meta · Catalog Advantage+,0.17,15,0,0.01,0.53,
+2026-09-22,tiktok,TikTok · Spark Ads Creators,0.13,24,0,0.0,0.09,
+2026-09-23,google,Google Shopping · Pump Pro,0.24,28,0,0.01,0.71,DW-PUMP-PRO
+2026-09-23,google,Google Shopping · Drum Bearing Kit,0.06,9,0,0.01,0.53,WM-BEAR-KIT
+2026-09-23,google,Google Performance Max · All Parts,0.53,48,0,0.02,1.3,
+2026-09-23,google,Google Search · Brand,0.09,21,0,0.02,1.01,
+2026-09-23,google,Google Search · Generic Parts,0.26,22,0,0.02,1.02,
+2026-09-23,meta,Meta · Prospecting Broad,0.37,29,0,0.01,0.42,
+2026-09-23,meta,Meta · Retargeting 30d,0.12,15,0,0.01,0.92,
+2026-09-23,meta,Meta · Catalog Advantage+,0.19,25,0,0.01,0.73,
+2026-09-23,tiktok,TikTok · Spark Ads Creators,0.14,25,0,0.0,0.11,
+2026-09-24,google,Google Shopping · Pump Pro,0.27,37,0,0.01,0.84,DW-PUMP-PRO
+2026-09-24,google,Google Shopping · Drum Bearing Kit,0.05,7,0,0.01,0.53,WM-BEAR-KIT
+2026-09-24,google,Google Performance Max · All Parts,0.44,62,0,0.02,1.34,
+2026-09-24,google,Google Search · Brand,0.07,17,0,0.01,0.91,
+2026-09-24,google,Google Search · Generic Parts,0.23,19,0,0.01,0.71,
+2026-09-24,meta,Meta · Prospecting Broad,0.35,37,0,0.01,0.44,
+2026-09-24,meta,Meta · Retargeting 30d,0.11,14,0,0.01,0.9,
+2026-09-24,meta,Meta · Catalog Advantage+,0.23,20,0,0.01,0.68,
+2026-09-24,tiktok,TikTok · Spark Ads Creators,0.13,26,0,0.0,0.09,
+2026-09-25,google,Google Shopping · Pump Pro,0.29,39,0,0.01,0.8,DW-PUMP-PRO
+2026-09-25,google,Google Shopping · Drum Bearing Kit,0.05,11,0,0.01,0.5,WM-BEAR-KIT
+2026-09-25,google,Google Performance Max · All Parts,0.42,48,0,0.02,1.23,
+2026-09-25,google,Google Search · Brand,0.08,23,0,0.02,0.96,
+2026-09-25,google,Google Search · Generic Parts,0.2,15,0,0.01,0.71,
+2026-09-25,meta,Meta · Prospecting Broad,0.46,41,0,0.01,0.51,
+2026-09-25,meta,Meta · Retargeting 30d,0.1,14,0,0.01,0.62,
+2026-09-25,meta,Meta · Catalog Advantage+,0.17,23,0,0.01,0.58,
+2026-09-25,tiktok,TikTok · Spark Ads Creators,0.13,29,0,0.0,0.08,
+2026-09-26,google,Google Shopping · Pump Pro,0.23,25,0,0.01,0.72,DW-PUMP-PRO
+2026-09-26,google,Google Shopping · Drum Bearing Kit,0.04,6,0,0.01,0.38,WM-BEAR-KIT
+2026-09-26,google,Google Performance Max · All Parts,0.39,34,0,0.02,1.21,
+2026-09-26,google,Google Search · Brand,0.06,20,0,0.01,0.78,
+2026-09-26,google,Google Search · Generic Parts,0.16,11,0,0.01,0.57,
+2026-09-26,meta,Meta · Prospecting Broad,0.29,30,0,0.01,0.4,
+2026-09-26,meta,Meta · Retargeting 30d,0.08,8,0,0.01,0.56,
+2026-09-26,meta,Meta · Catalog Advantage+,0.17,16,0,0.01,0.56,
+2026-09-26,tiktok,TikTok · Spark Ads Creators,0.11,16,0,0.0,0.06,
+2026-09-27,google,Google Shopping · Pump Pro,0.16,22,0,0.01,0.42,DW-PUMP-PRO
+2026-09-27,google,Google Shopping · Drum Bearing Kit,0.04,5,0,0.01,0.36,WM-BEAR-KIT
+2026-09-27,google,Google Performance Max · All Parts,0.39,38,0,0.02,0.98,
+2026-09-27,google,Google Search · Brand,0.06,15,0,0.01,0.74,
+2026-09-27,google,Google Search · Generic Parts,0.16,11,0,0.01,0.51,
+2026-09-27,meta,Meta · Prospecting Broad,0.3,34,0,0.01,0.34,
+2026-09-27,meta,Meta · Retargeting 30d,0.09,12,0,0.01,0.53,
+2026-09-27,meta,Meta · Catalog Advantage+,0.15,15,0,0.01,0.5,
+2026-09-27,tiktok,TikTok · Spark Ads Creators,0.08,15,0,0.0,0.05,
+2026-09-28,google,Google Shopping · Pump Pro,0.23,25,0,0.01,0.7,DW-PUMP-PRO
+2026-09-28,google,Google Shopping · Drum Bearing Kit,0.06,7,0,0.01,0.45,WM-BEAR-KIT
+2026-09-28,google,Google Performance Max · All Parts,0.55,71,0,0.02,1.35,
+2026-09-28,google,Google Search · Brand,0.08,20,0,0.01,0.84,
+2026-09-28,google,Google Search · Generic Parts,0.26,17,0,0.01,0.79,
+2026-09-28,meta,Meta · Prospecting Broad,0.45,50,0,0.01,0.63,
+2026-09-28,meta,Meta · Retargeting 30d,0.1,11,0,0.01,0.67,
+2026-09-28,meta,Meta · Catalog Advantage+,0.2,24,0,0.01,0.61,
+2026-09-28,tiktok,TikTok · Spark Ads Creators,0.12,26,0,0.0,0.08,
+2026-09-29,google,Google Shopping · Pump Pro,0.31,51,0,0.02,0.95,DW-PUMP-PRO
+2026-09-29,google,Google Shopping · Drum Bearing Kit,0.06,11,0,0.01,0.48,WM-BEAR-KIT
+2026-09-29,google,Google Performance Max · All Parts,0.47,48,0,0.02,1.16,
+2026-09-29,google,Google Search · Brand,0.07,27,0,0.01,0.82,
+2026-09-29,google,Google Search · Generic Parts,0.2,17,0,0.01,0.61,
+2026-09-29,meta,Meta · Prospecting Broad,0.36,34,0,0.01,0.38,
+2026-09-29,meta,Meta · Retargeting 30d,0.1,15,0,0.01,0.72,
+2026-09-29,meta,Meta · Catalog Advantage+,0.19,17,0,0.01,0.75,
+2026-09-29,tiktok,TikTok · Spark Ads Creators,0.14,31,0,0.0,0.09,
+2026-09-30,google,Google Shopping · Pump Pro,0.21,28,0,0.01,0.68,DW-PUMP-PRO
+2026-09-30,google,Google Shopping · Drum Bearing Kit,0.05,7,0,0.01,0.45,WM-BEAR-KIT
+2026-09-30,google,Google Performance Max · All Parts,0.55,55,0,0.03,1.63,
+2026-09-30,google,Google Search · Brand,0.08,24,0,0.02,0.96,
+2026-09-30,google,Google Search · Generic Parts,0.24,14,0,0.01,0.79,
+2026-09-30,meta,Meta · Prospecting Broad,0.4,30,0,0.01,0.54,
+2026-09-30,meta,Meta · Retargeting 30d,0.09,14,0,0.01,0.71,
+2026-09-30,meta,Meta · Catalog Advantage+,0.21,22,0,0.01,0.73,
+2026-09-30,tiktok,TikTok · Spark Ads Creators,0.1,19,0,0.0,0.07,
+2026-10-01,google,Google Shopping · Pump Pro,0.3,61,0,0.01,0.8,DW-PUMP-PRO
+2026-10-01,google,Google Shopping · Drum Bearing Kit,0.06,10,0,0.01,0.62,WM-BEAR-KIT
+2026-10-01,google,Google Performance Max · All Parts,0.47,70,0,0.02,1.35,
+2026-10-01,google,Google Search · Brand,0.06,17,0,0.01,0.74,
+2026-10-01,google,Google Search · Generic Parts,0.25,16,0,0.02,0.97,
+2026-10-01,meta,Meta · Prospecting Broad,0.46,50,0,0.01,0.64,
+2026-10-01,meta,Meta · Retargeting 30d,0.12,20,0,0.01,0.84,
+2026-10-01,meta,Meta · Catalog Advantage+,0.2,20,0,0.01,0.64,
+2026-10-01,tiktok,TikTok · Spark Ads Creators,0.14,23,0,0.0,0.1,
+2026-10-02,google,Google Shopping · Pump Pro,0.27,39,0,0.01,0.83,DW-PUMP-PRO
+2026-10-02,google,Google Shopping · Drum Bearing Kit,0.06,12,0,0.01,0.56,WM-BEAR-KIT
+2026-10-02,google,Google Performance Max · All Parts,0.57,59,1,0.02,1.36,
+2026-10-02,google,Google Search · Brand,0.09,22,0,0.02,1.16,
+2026-10-02,google,Google Search · Generic Parts,0.21,13,0,0.01,0.81,
+2026-10-02,meta,Meta · Prospecting Broad,0.42,55,0,0.01,0.58,
+2026-10-02,meta,Meta · Retargeting 30d,0.09,10,0,0.01,0.72,
+2026-10-02,meta,Meta · Catalog Advantage+,0.19,22,0,0.01,0.65,
+2026-10-02,tiktok,TikTok · Spark Ads Creators,0.1,15,0,0.0,0.07,
+2026-10-03,google,Google Shopping · Pump Pro,0.23,40,0,0.01,0.64,DW-PUMP-PRO
+2026-10-03,google,Google Shopping · Drum Bearing Kit,0.04,5,0,0.01,0.34,WM-BEAR-KIT
+2026-10-03,google,Google Performance Max · All Parts,0.32,49,0,0.02,0.95,
+2026-10-03,google,Google Search · Brand,0.05,13,0,0.01,0.72,
+2026-10-03,google,Google Search · Generic Parts,0.19,12,0,0.01,0.67,
+2026-10-03,meta,Meta · Prospecting Broad,0.33,41,0,0.01,0.43,
+2026-10-03,meta,Meta · Retargeting 30d,0.08,14,0,0.01,0.56,
+2026-10-03,meta,Meta · Catalog Advantage+,0.17,15,0,0.01,0.67,
+2026-10-03,tiktok,TikTok · Spark Ads Creators,0.08,21,0,0.0,0.05,
+2026-10-04,google,Google Shopping · Pump Pro,0.21,25,0,0.01,0.61,DW-PUMP-PRO
+2026-10-04,google,Google Shopping · Drum Bearing Kit,0.05,5,0,0.01,0.43,WM-BEAR-KIT
+2026-10-04,google,Google Performance Max · All Parts,0.44,41,0,0.02,1.11,
+2026-10-04,google,Google Search · Brand,0.05,18,0,0.01,0.56,
+2026-10-04,google,Google Search · Generic Parts,0.15,7,0,0.01,0.48,
+2026-10-04,meta,Meta · Prospecting Broad,0.3,35,0,0.01,0.41,
+2026-10-04,meta,Meta · Retargeting 30d,0.09,16,0,0.01,0.56,
+2026-10-04,meta,Meta · Catalog Advantage+,0.16,15,0,0.01,0.52,
+2026-10-04,tiktok,TikTok · Spark Ads Creators,0.09,22,0,0.0,0.05,
+2026-10-05,google,Google Shopping · Pump Pro,0.3,42,0,0.02,0.99,DW-PUMP-PRO
+2026-10-05,google,Google Shopping · Drum Bearing Kit,0.06,9,0,0.01,0.48,WM-BEAR-KIT
+2026-10-05,google,Google Performance Max · All Parts,0.58,65,1,0.03,1.64,
+2026-10-05,google,Google Search · Brand,0.08,21,0,0.02,1.18,
+2026-10-05,google,Google Search · Generic Parts,0.22,16,0,0.01,0.66,
+2026-10-05,meta,Meta · Prospecting Broad,0.36,46,0,0.01,0.39,
+2026-10-05,meta,Meta · Retargeting 30d,0.1,13,0,0.01,0.83,
+2026-10-05,meta,Meta · Catalog Advantage+,0.22,18,0,0.01,0.84,
+2026-10-05,tiktok,TikTok · Spark Ads Creators,0.14,23,0,0.0,0.09,
+2026-10-06,google,Google Shopping · Pump Pro,0.28,43,0,0.02,0.96,DW-PUMP-PRO
+2026-10-06,google,Google Shopping · Drum Bearing Kit,0.07,9,0,0.01,0.65,WM-BEAR-KIT
+2026-10-06,google,Google Performance Max · All Parts,0.46,41,0,0.02,1.23,
+2026-10-06,google,Google Search · Brand,0.06,19,0,0.01,0.79,
+2026-10-06,google,Google Search · Generic Parts,0.22,17,0,0.01,0.65,
+2026-10-06,meta,Meta · Prospecting Broad,0.32,32,0,0.01,0.35,
+2026-10-06,meta,Meta · Retargeting 30d,0.1,11,0,0.01,0.76,
+2026-10-06,meta,Meta · Catalog Advantage+,0.18,26,0,0.01,0.59,
+2026-10-06,tiktok,TikTok · Spark Ads Creators,0.14,26,0,0.0,0.09,
+2026-10-07,google,Google Shopping · Pump Pro,0.29,42,0,0.02,0.97,DW-PUMP-PRO
+2026-10-07,google,Google Shopping · Drum Bearing Kit,0.07,10,0,0.01,0.56,WM-BEAR-KIT
+2026-10-07,google,Google Performance Max · All Parts,0.45,66,0,0.02,1.05,
+2026-10-07,google,Google Search · Brand,0.08,27,0,0.02,0.96,
+2026-10-07,google,Google Search · Generic Parts,0.27,22,0,0.01,0.91,
+2026-10-07,meta,Meta · Prospecting Broad,0.32,24,0,0.01,0.42,
+2026-10-07,meta,Meta · Retargeting 30d,0.09,13,0,0.01,0.66,
+2026-10-07,meta,Meta · Catalog Advantage+,0.18,18,0,0.01,0.72,
+2026-10-07,tiktok,TikTok · Spark Ads Creators,0.11,29,0,0.0,0.06,
+2026-10-08,google,Google Shopping · Pump Pro,0.25,34,0,0.01,0.85,DW-PUMP-PRO
+2026-10-08,google,Google Shopping · Drum Bearing Kit,0.06,8,0,0.01,0.57,WM-BEAR-KIT
+2026-10-08,google,Google Performance Max · All Parts,0.48,61,0,0.02,1.44,
+2026-10-08,google,Google Search · Brand,0.08,33,0,0.02,1.17,
+2026-10-08,google,Google Search · Generic Parts,0.24,19,0,0.01,0.88,
+2026-10-08,meta,Meta · Prospecting Broad,0.43,34,0,0.01,0.45,
+2026-10-08,meta,Meta · Retargeting 30d,0.11,13,0,0.01,0.71,
+2026-10-08,meta,Meta · Catalog Advantage+,0.18,16,0,0.01,0.71,
+2026-10-08,tiktok,TikTok · Spark Ads Creators,0.11,25,0,0.0,0.08,
+2026-10-09,google,Google Shopping · Pump Pro,0.25,31,0,0.01,0.79,DW-PUMP-PRO
+2026-10-09,google,Google Shopping · Drum Bearing Kit,0.06,7,0,0.01,0.49,WM-BEAR-KIT
+2026-10-09,google,Google Performance Max · All Parts,0.57,59,0,0.02,1.41,
+2026-10-09,google,Google Search · Brand,0.08,24,0,0.02,0.95,
+2026-10-09,google,Google Search · Generic Parts,0.26,18,0,0.01,0.79,
+2026-10-09,meta,Meta · Prospecting Broad,0.45,34,0,0.01,0.49,
+2026-10-09,meta,Meta · Retargeting 30d,0.11,11,0,0.01,0.9,
+2026-10-09,meta,Meta · Catalog Advantage+,0.19,28,0,0.01,0.57,
+2026-10-09,tiktok,TikTok · Spark Ads Creators,0.14,23,0,0.0,0.09,
+2026-10-10,google,Google Shopping · Pump Pro,0.16,27,0,0.01,0.43,DW-PUMP-PRO
+2026-10-10,google,Google Shopping · Drum Bearing Kit,0.05,6,0,0.01,0.46,WM-BEAR-KIT
+2026-10-10,google,Google Performance Max · All Parts,0.39,38,0,0.01,0.91,
+2026-10-10,google,Google Search · Brand,0.06,17,0,0.01,0.73,
+2026-10-10,google,Google Search · Generic Parts,0.21,14,0,0.01,0.65,
+2026-10-10,meta,Meta · Prospecting Broad,0.34,43,0,0.01,0.43,
+2026-10-10,meta,Meta · Retargeting 30d,0.07,9,0,0.01,0.41,
+2026-10-10,meta,Meta · Catalog Advantage+,0.13,16,0,0.01,0.48,
+2026-10-10,tiktok,TikTok · Spark Ads Creators,0.09,16,0,0.0,0.05,
+2026-10-11,google,Google Shopping · Pump Pro,0.21,36,0,0.01,0.62,DW-PUMP-PRO
+2026-10-11,google,Google Shopping · Drum Bearing Kit,0.05,7,0,0.01,0.41,WM-BEAR-KIT
+2026-10-11,google,Google Performance Max · All Parts,0.34,47,0,0.01,0.84,
+2026-10-11,google,Google Search · Brand,0.06,14,0,0.01,0.63,
+2026-10-11,google,Google Search · Generic Parts,0.15,9,0,0.01,0.56,
+2026-10-11,meta,Meta · Prospecting Broad,0.35,38,0,0.01,0.35,
+2026-10-11,meta,Meta · Retargeting 30d,0.07,8,0,0.01,0.49,
+2026-10-11,meta,Meta · Catalog Advantage+,0.17,18,0,0.01,0.52,
+2026-10-11,tiktok,TikTok · Spark Ads Creators,0.08,16,0,0.0,0.06,
+2026-10-12,google,Google Shopping · Pump Pro,0.22,34,0,0.01,0.65,DW-PUMP-PRO
+2026-10-12,google,Google Shopping · Drum Bearing Kit,0.06,8,0,0.01,0.59,WM-BEAR-KIT
+2026-10-12,google,Google Performance Max · All Parts,0.49,42,0,0.02,1.29,
+2026-10-12,google,Google Search · Brand,0.07,26,0,0.01,0.88,
+2026-10-12,google,Google Search · Generic Parts,0.26,18,0,0.01,0.82,
+2026-10-12,meta,Meta · Prospecting Broad,0.35,37,0,0.01,0.41,
+2026-10-12,meta,Meta · Retargeting 30d,0.11,16,0,0.01,0.82,
+2026-10-12,meta,Meta · Catalog Advantage+,0.19,25,0,0.01,0.69,
+2026-10-12,tiktok,TikTok · Spark Ads Creators,0.1,22,0,0.0,0.08,
+2026-10-13,google,Google Shopping · Pump Pro,0.3,48,0,0.02,0.96,DW-PUMP-PRO
+2026-10-13,google,Google Shopping · Drum Bearing Kit,0.07,8,0,0.01,0.72,WM-BEAR-KIT
+2026-10-13,google,Google Performance Max · All Parts,0.48,46,0,0.02,1.46,
+2026-10-13,google,Google Search · Brand,0.07,25,0,0.02,0.93,
+2026-10-13,google,Google Search · Generic Parts,0.22,18,0,0.01,0.72,
+2026-10-13,meta,Meta · Prospecting Broad,0.4,36,0,0.01,0.47,
+2026-10-13,meta,Meta · Retargeting 30d,0.08,9,0,0.01,0.58,
+2026-10-13,meta,Meta · Catalog Advantage+,0.19,19,0,0.01,0.67,
+2026-10-13,tiktok,TikTok · Spark Ads Creators,0.14,23,0,0.0,0.09,
+2026-10-14,google,Google Shopping · Pump Pro,0.26,35,0,0.01,0.67,DW-PUMP-PRO
+2026-10-14,google,Google Shopping · Drum Bearing Kit,0.06,10,0,0.01,0.6,WM-BEAR-KIT
+2026-10-14,google,Google Performance Max · All Parts,0.54,74,1,0.02,1.34,
+2026-10-14,google,Google Search · Brand,0.07,18,0,0.01,0.87,
+2026-10-14,google,Google Search · Generic Parts,0.21,14,0,0.01,0.67,
+2026-10-14,meta,Meta · Prospecting Broad,0.33,23,0,0.01,0.43,
+2026-10-14,meta,Meta · Retargeting 30d,0.09,10,0,0.01,0.62,
+2026-10-14,meta,Meta · Catalog Advantage+,0.19,22,0,0.01,0.62,
+2026-10-14,tiktok,TikTok · Spark Ads Creators,0.15,35,0,0.0,0.09,
+2026-10-15,google,Google Shopping · Pump Pro,0.21,40,0,0.01,0.56,DW-PUMP-PRO
+2026-10-15,google,Google Shopping · Drum Bearing Kit,0.07,10,0,0.01,0.7,WM-BEAR-KIT
+2026-10-15,google,Google Performance Max · All Parts,0.58,66,1,0.02,1.49,
+2026-10-15,google,Google Search · Brand,0.07,23,0,0.01,0.84,
+2026-10-15,google,Google Search · Generic Parts,0.22,13,0,0.01,0.73,
+2026-10-15,meta,Meta · Prospecting Broad,0.34,35,0,0.01,0.33,
+2026-10-15,meta,Meta · Retargeting 30d,0.1,9,0,0.01,0.73,
+2026-10-15,meta,Meta · Catalog Advantage+,0.16,17,0,0.01,0.61,
+2026-10-15,tiktok,TikTok · Spark Ads Creators,0.14,25,0,0.0,0.08,
+2026-10-16,google,Google Shopping · Pump Pro,0.31,48,0,0.02,1.05,DW-PUMP-PRO
+2026-10-16,google,Google Shopping · Drum Bearing Kit,0.06,13,0,0.01,0.51,WM-BEAR-KIT
+2026-10-16,google,Google Performance Max · All Parts,0.42,66,0,0.02,1.07,
+2026-10-16,google,Google Search · Brand,0.09,22,0,0.02,0.93,
+2026-10-16,google,Google Search · Generic Parts,0.22,13,0,0.01,0.66,
+2026-10-16,meta,Meta · Prospecting Broad,0.46,56,0,0.01,0.51,
+2026-10-16,meta,Meta · Retargeting 30d,0.12,17,0,0.01,0.85,
+2026-10-16,meta,Meta · Catalog Advantage+,0.17,17,0,0.01,0.63,
+2026-10-16,tiktok,TikTok · Spark Ads Creators,0.1,19,0,0.0,0.05,
+2026-10-17,google,Google Shopping · Pump Pro,0.23,40,0,0.01,0.77,DW-PUMP-PRO
+2026-10-17,google,Google Shopping · Drum Bearing Kit,0.04,5,0,0.01,0.35,WM-BEAR-KIT
+2026-10-17,google,Google Performance Max · All Parts,0.45,46,0,0.02,1.16,
+2026-10-17,google,Google Search · Brand,0.05,15,0,0.01,0.65,
+2026-10-17,google,Google Search · Generic Parts,0.15,11,0,0.01,0.44,
+2026-10-17,meta,Meta · Prospecting Broad,0.3,28,0,0.01,0.36,
+2026-10-17,meta,Meta · Retargeting 30d,0.08,11,0,0.01,0.59,
+2026-10-17,meta,Meta · Catalog Advantage+,0.18,18,0,0.01,0.53,
+2026-10-17,tiktok,TikTok · Spark Ads Creators,0.1,17,0,0.0,0.07,
+2026-10-18,google,Google Shopping · Pump Pro,0.16,21,0,0.01,0.49,DW-PUMP-PRO
+2026-10-18,google,Google Shopping · Drum Bearing Kit,0.05,10,0,0.01,0.43,WM-BEAR-KIT
+2026-10-18,google,Google Performance Max · All Parts,0.45,57,0,0.02,1.07,
+2026-10-18,google,Google Search · Brand,0.07,24,0,0.01,0.82,
+2026-10-18,google,Google Search · Generic Parts,0.19,13,0,0.01,0.62,
+2026-10-18,meta,Meta · Prospecting Broad,0.26,26,0,0.0,0.28,
+2026-10-18,meta,Meta · Retargeting 30d,0.06,9,0,0.01,0.45,
+2026-10-18,meta,Meta · Catalog Advantage+,0.18,16,0,0.01,0.72,
+2026-10-18,tiktok,TikTok · Spark Ads Creators,0.11,22,0,0.0,0.06,
+2026-10-19,google,Google Shopping · Pump Pro,0.28,35,0,0.01,0.77,DW-PUMP-PRO
+2026-10-19,google,Google Shopping · Drum Bearing Kit,0.05,8,0,0.01,0.49,WM-BEAR-KIT
+2026-10-19,google,Google Performance Max · All Parts,0.41,40,0,0.02,1.24,
+2026-10-19,google,Google Search · Brand,0.07,16,0,0.01,0.89,
+2026-10-19,google,Google Search · Generic Parts,0.19,12,0,0.01,0.7,
+2026-10-19,meta,Meta · Prospecting Broad,0.46,47,0,0.01,0.44,
+2026-10-19,meta,Meta · Retargeting 30d,0.09,14,0,0.01,0.6,
+2026-10-19,meta,Meta · Catalog Advantage+,0.23,29,0,0.01,0.72,
+2026-10-19,tiktok,TikTok · Spark Ads Creators,0.11,23,0,0.0,0.07,
+2026-10-20,google,Google Shopping · Pump Pro,0.23,29,0,0.01,0.71,DW-PUMP-PRO
+2026-10-20,google,Google Shopping · Drum Bearing Kit,0.06,7,0,0.01,0.52,WM-BEAR-KIT
+2026-10-20,google,Google Performance Max · All Parts,0.58,62,1,0.03,1.59,
+2026-10-20,google,Google Search · Brand,0.08,22,0,0.02,1.01,
+2026-10-20,google,Google Search · Generic Parts,0.2,15,0,0.01,0.75,
+2026-10-20,meta,Meta · Prospecting Broad,0.45,39,0,0.01,0.48,
+2026-10-20,meta,Meta · Retargeting 30d,0.09,10,0,0.01,0.57,
+2026-10-20,meta,Meta · Catalog Advantage+,0.21,18,0,0.01,0.78,
+2026-10-20,tiktok,TikTok · Spark Ads Creators,0.14,23,0,0.0,0.1,
+2026-10-21,google,Google Shopping · Pump Pro,0.3,46,0,0.02,0.97,DW-PUMP-PRO
+2026-10-21,google,Google Shopping · Drum Bearing Kit,0.05,7,0,0.01,0.49,WM-BEAR-KIT
+2026-10-21,google,Google Performance Max · All Parts,0.44,63,0,0.02,1.35,
+2026-10-21,google,Google Search · Brand,0.09,23,0,0.02,1.24,
+2026-10-21,google,Google Search · Generic Parts,0.24,18,0,0.01,0.89,
+2026-10-21,meta,Meta · Prospecting Broad,0.46,51,0,0.01,0.44,
+2026-10-21,meta,Meta · Retargeting 30d,0.1,17,0,0.01,0.75,
+2026-10-21,meta,Meta · Catalog Advantage+,0.23,22,0,0.01,0.71,
+2026-10-21,tiktok,TikTok · Spark Ads Creators,0.14,29,0,0.0,0.08,
+2026-10-22,google,Google Shopping · Pump Pro,0.26,36,0,0.01,0.72,DW-PUMP-PRO
+2026-10-22,google,Google Shopping · Drum Bearing Kit,0.05,6,0,0.01,0.38,WM-BEAR-KIT
+2026-10-22,google,Google Performance Max · All Parts,0.41,42,0,0.02,1.22,
+2026-10-22,google,Google Search · Brand,0.09,23,0,0.02,1.22,
+2026-10-22,google,Google Search · Generic Parts,0.26,16,0,0.01,0.87,
+2026-10-22,meta,Meta · Prospecting Broad,0.34,29,0,0.01,0.32,
+2026-10-22,meta,Meta · Retargeting 30d,0.11,16,0,0.01,0.85,
+2026-10-22,meta,Meta · Catalog Advantage+,0.16,16,0,0.01,0.58,
+2026-10-22,tiktok,TikTok · Spark Ads Creators,0.1,18,0,0.0,0.07,
+2026-10-23,google,Google Shopping · Pump Pro,0.3,44,0,0.01,0.78,DW-PUMP-PRO
+2026-10-23,google,Google Shopping · Drum Bearing Kit,0.07,9,0,0.01,0.63,WM-BEAR-KIT
+2026-10-23,google,Google Performance Max · All Parts,0.42,63,0,0.02,1.11,
+2026-10-23,google,Google Search · Brand,0.07,24,0,0.01,0.8,
+2026-10-23,google,Google Search · Generic Parts,0.2,12,0,0.01,0.76,
+2026-10-23,meta,Meta · Prospecting Broad,0.4,32,0,0.01,0.4,
+2026-10-23,meta,Meta · Retargeting 30d,0.12,20,0,0.01,0.74,
+2026-10-23,meta,Meta · Catalog Advantage+,0.22,23,0,0.01,0.69,
+2026-10-23,tiktok,TikTok · Spark Ads Creators,0.12,18,0,0.0,0.07,
+2026-10-24,google,Google Shopping · Pump Pro,0.16,29,0,0.01,0.52,DW-PUMP-PRO
+2026-10-24,google,Google Shopping · Drum Bearing Kit,0.04,7,0,0.01,0.45,WM-BEAR-KIT
+2026-10-24,google,Google Performance Max · All Parts,0.43,39,0,0.02,1.01,
+2026-10-24,google,Google Search · Brand,0.07,19,0,0.01,0.83,
+2026-10-24,google,Google Search · Generic Parts,0.2,12,0,0.01,0.59,
+2026-10-24,meta,Meta · Prospecting Broad,0.31,26,0,0.0,0.3,
+2026-10-24,meta,Meta · Retargeting 30d,0.09,12,0,0.01,0.59,
+2026-10-24,meta,Meta · Catalog Advantage+,0.14,12,0,0.01,0.56,
+2026-10-24,tiktok,TikTok · Spark Ads Creators,0.1,16,0,0.0,0.07,
+2026-10-25,google,Google Shopping · Pump Pro,0.16,22,0,0.01,0.5,DW-PUMP-PRO
+2026-10-25,google,Google Shopping · Drum Bearing Kit,0.05,10,0,0.01,0.41,WM-BEAR-KIT
+2026-10-25,google,Google Performance Max · All Parts,0.43,45,0,0.02,1.19,
+2026-10-25,google,Google Search · Brand,0.06,15,0,0.01,0.87,
+2026-10-25,google,Google Search · Generic Parts,0.21,14,0,0.01,0.77,
+2026-10-25,meta,Meta · Prospecting Broad,0.27,32,0,0.0,0.3,
+2026-10-25,meta,Meta · Retargeting 30d,0.07,7,0,0.01,0.57,
+2026-10-25,meta,Meta · Catalog Advantage+,0.17,21,0,0.01,0.57,
+2026-10-25,tiktok,TikTok · Spark Ads Creators,0.11,28,0,0.0,0.06,
+2026-10-26,google,Google Shopping · Pump Pro,0.24,34,0,0.01,0.64,DW-PUMP-PRO
+2026-10-26,google,Google Shopping · Drum Bearing Kit,0.06,7,0,0.01,0.48,WM-BEAR-KIT
+2026-10-26,google,Google Performance Max · All Parts,0.56,58,1,0.02,1.49,
+2026-10-26,google,Google Search · Brand,0.07,23,0,0.01,0.83,
+2026-10-26,google,Google Search · Generic Parts,0.22,19,0,0.01,0.77,
+2026-10-26,meta,Meta · Prospecting Broad,0.42,32,0,0.01,0.47,
+2026-10-26,meta,Meta · Retargeting 30d,0.1,16,0,0.01,0.69,
+2026-10-26,meta,Meta · Catalog Advantage+,0.17,20,0,0.01,0.63,
+2026-10-26,tiktok,TikTok · Spark Ads Creators,0.11,18,0,0.0,0.06,
+2026-10-27,google,Google Shopping · Pump Pro,0.3,43,0,0.01,0.89,DW-PUMP-PRO
+2026-10-27,google,Google Shopping · Drum Bearing Kit,0.06,9,0,0.01,0.57,WM-BEAR-KIT
+2026-10-27,google,Google Performance Max · All Parts,0.43,47,0,0.02,1.06,
+2026-10-27,google,Google Search · Brand,0.07,20,0,0.01,0.9,
+2026-10-27,google,Google Search · Generic Parts,0.24,16,0,0.01,0.88,
+2026-10-27,meta,Meta · Prospecting Broad,0.32,37,0,0.01,0.38,
+2026-10-27,meta,Meta · Retargeting 30d,0.09,16,0,0.01,0.7,
+2026-10-27,meta,Meta · Catalog Advantage+,0.19,22,0,0.01,0.73,
+2026-10-27,tiktok,TikTok · Spark Ads Creators,0.12,20,0,0.0,0.07,
+2026-10-28,google,Google Shopping · Pump Pro,0.31,43,0,0.01,0.8,DW-PUMP-PRO
+2026-10-28,google,Google Shopping · Drum Bearing Kit,0.05,6,0,0.01,0.45,WM-BEAR-KIT
+2026-10-28,google,Google Performance Max · All Parts,0.59,76,1,0.02,1.47,
+2026-10-28,google,Google Search · Brand,0.06,19,0,0.01,0.73,
+2026-10-28,google,Google Search · Generic Parts,0.24,14,0,0.01,0.85,
+2026-10-28,meta,Meta · Prospecting Broad,0.39,28,0,0.01,0.44,
+2026-10-28,meta,Meta · Retargeting 30d,0.09,12,0,0.01,0.7,
+2026-10-28,meta,Meta · Catalog Advantage+,0.2,28,0,0.01,0.61,
+2026-10-28,tiktok,TikTok · Spark Ads Creators,0.11,22,0,0.0,0.07,
+2026-10-29,google,Google Shopping · Pump Pro,0.27,34,0,0.01,0.76,DW-PUMP-PRO
+2026-10-29,google,Google Shopping · Drum Bearing Kit,0.07,8,0,0.01,0.66,WM-BEAR-KIT
+2026-10-29,google,Google Performance Max · All Parts,0.43,53,0,0.02,1.13,
+2026-10-29,google,Google Search · Brand,0.07,17,0,0.01,0.73,
+2026-10-29,google,Google Search · Generic Parts,0.19,11,0,0.01,0.72,
+2026-10-29,meta,Meta · Prospecting Broad,0.36,46,0,0.01,0.39,
+2026-10-29,meta,Meta · Retargeting 30d,0.11,13,0,0.01,0.83,
+2026-10-29,meta,Meta · Catalog Advantage+,0.18,21,0,0.01,0.54,
+2026-10-29,tiktok,TikTok · Spark Ads Creators,0.12,28,0,0.0,0.08,
+2026-10-30,google,Google Shopping · Pump Pro,0.23,28,0,0.01,0.66,DW-PUMP-PRO
+2026-10-30,google,Google Shopping · Drum Bearing Kit,0.07,13,0,0.01,0.63,WM-BEAR-KIT
+2026-10-30,google,Google Performance Max · All Parts,0.5,57,0,0.02,1.44,
+2026-10-30,google,Google Search · Brand,0.06,15,0,0.01,0.81,
+2026-10-30,google,Google Search · Generic Parts,0.23,18,0,0.01,0.78,
+2026-10-30,meta,Meta · Prospecting Broad,0.42,34,0,0.01,0.44,
+2026-10-30,meta,Meta · Retargeting 30d,0.11,10,0,0.01,0.69,
+2026-10-30,meta,Meta · Catalog Advantage+,0.17,15,0,0.01,0.53,
+2026-10-30,tiktok,TikTok · Spark Ads Creators,0.13,22,0,0.0,0.08,
+2026-10-31,google,Google Shopping · Pump Pro,0.22,36,0,0.01,0.67,DW-PUMP-PRO
+2026-10-31,google,Google Shopping · Drum Bearing Kit,0.05,8,0,0.01,0.46,WM-BEAR-KIT
+2026-10-31,google,Google Performance Max · All Parts,0.33,36,0,0.01,0.86,
+2026-10-31,google,Google Search · Brand,0.06,15,0,0.01,0.83,
+2026-10-31,google,Google Search · Generic Parts,0.15,9,0,0.01,0.48,
+2026-10-31,meta,Meta · Prospecting Broad,0.32,42,0,0.01,0.32,
+2026-10-31,meta,Meta · Retargeting 30d,0.08,9,0,0.01,0.58,
+2026-10-31,meta,Meta · Catalog Advantage+,0.16,20,0,0.01,0.59,
+2026-10-31,tiktok,TikTok · Spark Ads Creators,0.11,22,0,0.0,0.07,
+2026-11-01,google,Google Shopping · Pump Pro,0.21,30,0,0.01,0.67,DW-PUMP-PRO
+2026-11-01,google,Google Shopping · Drum Bearing Kit,0.04,5,0,0.01,0.35,WM-BEAR-KIT
+2026-11-01,google,Google Performance Max · All Parts,0.32,37,0,0.01,0.87,
+2026-11-01,google,Google Search · Brand,0.06,16,0,0.01,0.78,
+2026-11-01,google,Google Search · Generic Parts,0.17,13,0,0.01,0.6,
+2026-11-01,meta,Meta · Prospecting Broad,0.32,32,0,0.01,0.35,
+2026-11-01,meta,Meta · Retargeting 30d,0.08,9,0,0.01,0.48,
+2026-11-01,meta,Meta · Catalog Advantage+,0.15,14,0,0.01,0.45,
+2026-11-01,tiktok,TikTok · Spark Ads Creators,0.11,19,0,0.0,0.07,
+2026-11-02,google,Google Shopping · Pump Pro,0.31,56,0,0.02,0.97,DW-PUMP-PRO
+2026-11-02,google,Google Shopping · Drum Bearing Kit,0.05,8,0,0.01,0.46,WM-BEAR-KIT
+2026-11-02,google,Google Performance Max · All Parts,0.52,71,1,0.02,1.54,
+2026-11-02,google,Google Search · Brand,0.08,20,0,0.02,1.02,
+2026-11-02,google,Google Search · Generic Parts,0.27,21,0,0.02,1.0,
+2026-11-02,meta,Meta · Prospecting Broad,0.4,44,0,0.01,0.39,
+2026-11-02,meta,Meta · Retargeting 30d,0.09,10,0,0.01,0.65,
+2026-11-02,meta,Meta · Catalog Advantage+,0.17,16,0,0.01,0.68,
+2026-11-02,tiktok,TikTok · Spark Ads Creators,0.11,23,0,0.0,0.07,
+2026-11-03,google,Google Shopping · Pump Pro,0.27,40,0,0.01,0.78,DW-PUMP-PRO
+2026-11-03,google,Google Shopping · Drum Bearing Kit,0.07,15,0,0.01,0.55,WM-BEAR-KIT
+2026-11-03,google,Google Performance Max · All Parts,0.52,50,0,0.02,1.26,
+2026-11-03,google,Google Search · Brand,0.06,20,0,0.01,0.84,
+2026-11-03,google,Google Search · Generic Parts,0.22,16,0,0.01,0.65,
+2026-11-03,meta,Meta · Prospecting Broad,0.48,51,0,0.01,0.47,
+2026-11-03,meta,Meta · Retargeting 30d,0.12,19,0,0.01,0.85,
+2026-11-03,meta,Meta · Catalog Advantage+,0.23,25,0,0.01,0.9,
+2026-11-03,tiktok,TikTok · Spark Ads Creators,0.14,32,0,0.0,0.09,
+2026-11-04,google,Google Shopping · Pump Pro,0.27,46,0,0.01,0.76,DW-PUMP-PRO
+2026-11-04,google,Google Shopping · Drum Bearing Kit,0.07,10,0,0.01,0.69,WM-BEAR-KIT
+2026-11-04,google,Google Performance Max · All Parts,0.59,51,0,0.02,1.4,
+2026-11-04,google,Google Search · Brand,0.07,18,0,0.02,0.97,
+2026-11-04,google,Google Search · Generic Parts,0.22,13,0,0.01,0.85,
+2026-11-04,meta,Meta · Prospecting Broad,0.35,41,0,0.01,0.34,
+2026-11-04,meta,Meta · Retargeting 30d,0.12,13,0,0.01,0.72,
+2026-11-04,meta,Meta · Catalog Advantage+,0.17,18,0,0.01,0.54,
+2026-11-04,tiktok,TikTok · Spark Ads Creators,0.13,22,0,0.0,0.09,
+2026-11-05,google,Google Shopping · Pump Pro,0.22,41,0,0.01,0.66,DW-PUMP-PRO
+2026-11-05,google,Google Shopping · Drum Bearing Kit,0.05,9,0,0.01,0.48,WM-BEAR-KIT
+2026-11-05,google,Google Performance Max · All Parts,0.55,57,1,0.02,1.24,
+2026-11-05,google,Google Search · Brand,0.06,16,0,0.01,0.77,
+2026-11-05,google,Google Search · Generic Parts,0.25,16,0,0.01,0.9,
+2026-11-05,meta,Meta · Prospecting Broad,0.45,54,0,0.01,0.44,
+2026-11-05,meta,Meta · Retargeting 30d,0.12,17,0,0.01,0.72,
+2026-11-05,meta,Meta · Catalog Advantage+,0.19,17,0,0.01,0.6,
+2026-11-05,tiktok,TikTok · Spark Ads Creators,0.12,22,0,0.0,0.07,
+2026-11-06,google,Google Shopping · Pump Pro,0.26,40,0,0.01,0.9,DW-PUMP-PRO
+2026-11-06,google,Google Shopping · Drum Bearing Kit,0.07,10,0,0.01,0.69,WM-BEAR-KIT
+2026-11-06,google,Google Performance Max · All Parts,0.41,48,0,0.02,0.96,
+2026-11-06,google,Google Search · Brand,0.09,30,0,0.02,0.98,
+2026-11-06,google,Google Search · Generic Parts,0.21,18,0,0.01,0.71,
+2026-11-06,meta,Meta · Prospecting Broad,0.47,52,0,0.01,0.51,
+2026-11-06,meta,Meta · Retargeting 30d,0.11,16,0,0.01,0.82,
+2026-11-06,meta,Meta · Catalog Advantage+,0.16,20,0,0.01,0.53,
+2026-11-06,tiktok,TikTok · Spark Ads Creators,0.12,26,0,0.0,0.08,
+2026-11-07,google,Google Shopping · Pump Pro,0.2,36,0,0.01,0.67,DW-PUMP-PRO
+2026-11-07,google,Google Shopping · Drum Bearing Kit,0.04,6,0,0.01,0.36,WM-BEAR-KIT
+2026-11-07,google,Google Performance Max · All Parts,0.44,49,0,0.02,1.02,
+2026-11-07,google,Google Search · Brand,0.06,15,0,0.01,0.77,
+2026-11-07,google,Google Search · Generic Parts,0.16,16,0,0.01,0.52,
+2026-11-07,meta,Meta · Prospecting Broad,0.3,27,0,0.01,0.33,
+2026-11-07,meta,Meta · Retargeting 30d,0.07,7,0,0.01,0.53,
+2026-11-07,meta,Meta · Catalog Advantage+,0.15,19,0,0.01,0.52,
+2026-11-07,tiktok,TikTok · Spark Ads Creators,0.1,19,0,0.0,0.06,
+2026-11-08,google,Google Shopping · Pump Pro,0.17,24,0,0.01,0.56,DW-PUMP-PRO
+2026-11-08,google,Google Shopping · Drum Bearing Kit,0.04,8,0,0.01,0.42,WM-BEAR-KIT
+2026-11-08,google,Google Performance Max · All Parts,0.35,42,0,0.01,0.92,
+2026-11-08,google,Google Search · Brand,0.06,19,0,0.01,0.68,
+2026-11-08,google,Google Search · Generic Parts,0.17,11,0,0.01,0.57,
+2026-11-08,meta,Meta · Prospecting Broad,0.28,21,0,0.0,0.28,
+2026-11-08,meta,Meta · Retargeting 30d,0.06,7,0,0.01,0.44,
+2026-11-08,meta,Meta · Catalog Advantage+,0.13,12,0,0.01,0.48,
+2026-11-08,tiktok,TikTok · Spark Ads Creators,0.09,21,0,0.0,0.06,
+2026-11-09,google,Google Shopping · Pump Pro,0.25,33,0,0.01,0.69,DW-PUMP-PRO
+2026-11-09,google,Google Shopping · Drum Bearing Kit,0.06,8,0,0.01,0.5,WM-BEAR-KIT
+2026-11-09,google,Google Performance Max · All Parts,0.5,52,0,0.02,1.41,
+2026-11-09,google,Google Search · Brand,0.07,16,0,0.01,0.8,
+2026-11-09,google,Google Search · Generic Parts,0.19,13,0,0.01,0.66,
+2026-11-09,meta,Meta · Prospecting Broad,0.41,34,0,0.01,0.33,
+2026-11-09,meta,Meta · Retargeting 30d,0.11,13,0,0.01,0.85,
+2026-11-09,meta,Meta · Catalog Advantage+,0.24,28,0,0.01,0.9,
+2026-11-09,tiktok,TikTok · Spark Ads Creators,0.11,30,0,0.0,0.07,
+2026-11-10,google,Google Shopping · Pump Pro,0.22,32,0,0.01,0.66,DW-PUMP-PRO
+2026-11-10,google,Google Shopping · Drum Bearing Kit,0.06,10,0,0.01,0.62,WM-BEAR-KIT
+2026-11-10,google,Google Performance Max · All Parts,0.49,43,0,0.02,1.28,
+2026-11-10,google,Google Search · Brand,0.07,18,0,0.02,0.95,
+2026-11-10,google,Google Search · Generic Parts,0.19,11,0,0.01,0.56,
+2026-11-10,meta,Meta · Prospecting Broad,0.43,51,0,0.01,0.44,
+2026-11-10,meta,Meta · Retargeting 30d,0.1,14,0,0.01,0.75,
+2026-11-10,meta,Meta · Catalog Advantage+,0.22,21,0,0.01,0.69,
+2026-11-10,tiktok,TikTok · Spark Ads Creators,0.12,27,0,0.0,0.08,
+2026-11-11,google,Google Shopping · Pump Pro,0.28,52,0,0.01,0.9,DW-PUMP-PRO
+2026-11-11,google,Google Shopping · Drum Bearing Kit,0.05,10,0,0.01,0.53,WM-BEAR-KIT
+2026-11-11,google,Google Performance Max · All Parts,0.49,48,0,0.02,1.33,
+2026-11-11,google,Google Search · Brand,0.08,21,0,0.02,0.94,
+2026-11-11,google,Google Search · Generic Parts,0.2,13,0,0.01,0.6,
+2026-11-11,meta,Meta · Prospecting Broad,0.34,32,0,0.0,0.29,
+2026-11-11,meta,Meta · Retargeting 30d,0.09,9,0,0.01,0.67,
+2026-11-11,meta,Meta · Catalog Advantage+,0.21,16,0,0.01,0.65,
+2026-11-11,tiktok,TikTok · Spark Ads Creators,0.15,23,0,0.0,0.09,
+2026-11-12,google,Google Shopping · Pump Pro,0.27,32,0,0.01,0.74,DW-PUMP-PRO
+2026-11-12,google,Google Shopping · Drum Bearing Kit,0.06,9,0,0.01,0.56,WM-BEAR-KIT
+2026-11-12,google,Google Performance Max · All Parts,0.58,60,1,0.02,1.33,
+2026-11-12,google,Google Search · Brand,0.08,24,0,0.02,1.0,
+2026-11-12,google,Google Search · Generic Parts,0.25,16,0,0.01,0.9,
+2026-11-12,meta,Meta · Prospecting Broad,0.46,44,0,0.01,0.44,
+2026-11-12,meta,Meta · Retargeting 30d,0.09,11,0,0.01,0.6,
+2026-11-12,meta,Meta · Catalog Advantage+,0.24,32,0,0.01,0.91,
+2026-11-12,tiktok,TikTok · Spark Ads Creators,0.1,16,0,0.0,0.06,
+2026-11-13,google,Google Shopping · Pump Pro,0.3,48,0,0.02,0.94,DW-PUMP-PRO
+2026-11-13,google,Google Shopping · Drum Bearing Kit,0.05,6,0,0.01,0.41,WM-BEAR-KIT
+2026-11-13,google,Google Performance Max · All Parts,0.56,79,1,0.02,1.46,
+2026-11-13,google,Google Search · Brand,0.08,29,0,0.01,0.93,
+2026-11-13,google,Google Search · Generic Parts,0.21,18,0,0.01,0.74,
+2026-11-13,meta,Meta · Prospecting Broad,0.45,47,0,0.01,0.39,
+2026-11-13,meta,Meta · Retargeting 30d,0.1,12,0,0.01,0.72,
+2026-11-13,meta,Meta · Catalog Advantage+,0.23,29,0,0.01,0.75,
+2026-11-13,tiktok,TikTok · Spark Ads Creators,0.14,23,0,0.0,0.08,
