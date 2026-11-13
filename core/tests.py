@@ -266,3 +266,46 @@ class AIFallbackTests(TestCase):
             text, provider = providers.complete([{"role": "user", "content": "hi"}])
         self.assertEqual((text, provider), ("ok", "groq"))
         self.assertEqual(seen, ["big", "small"])  # did not wait on the limited model, moved straight on
+
+
+class DeploymentTests(TestCase):
+    def test_as_of_pins_today(self):
+        from datetime import date
+        from django.test import override_settings
+        from core.services import profit
+        with override_settings(PROFIT_AS_OF="2026-11-13"):
+            self.assertEqual(profit.resolve_period(30), (date(2026, 10, 15), date(2026, 11, 13)))
+        self.assertEqual(profit.today(), timezone.now().astimezone(__import__("datetime").timezone.utc).date())
+
+    def test_read_only_blocks_store_writes_but_not_chat_or_signals(self):
+        from django.test import override_settings
+        s = Store.objects.create(name="x", platform="shopify", domain="x.myshopify.com")
+        with override_settings(READ_ONLY=True):
+            for method, url in [("post", "/api/stores/shopify/"), ("post", f"/api/stores/{s.id}/sync/"), ("delete", f"/api/stores/{s.id}/"),
+                                ("post", "/api/stores/demo/"), ("patch", f"/api/stores/{s.id}/")]:
+                r = getattr(self.client, method)(url, content_type="application/json", data="{}")
+                self.assertEqual(r.status_code, 403, url)
+            self.assertTrue(Store.objects.filter(id=s.id).exists())
+            self.assertEqual(self.client.get("/api/config/").json()["read_only"], True)
+            self.assertNotEqual(self.client.patch("/api/signals/999/", content_type="application/json", data='{"status":"new"}').status_code, 403)
+
+    def test_shopify_store_is_the_default_selection(self):
+        Store.objects.create(name="demo", platform="demo")
+        shop = Store.objects.create(name="live", platform="shopify", domain="a.myshopify.com")
+        self.assertEqual(self.client.get("/api/overview/?days=30").json()["store"]["id"], shop.id)
+
+    def test_dump_removes_credentials_and_roundtrips(self):
+        import gzip, json, os, tempfile
+        from django.core.management import call_command
+        s = Store.objects.create(name="\tLive ", platform="shopify", domain="a.myshopify.com", access_token="shpat_x", client_id="id", client_secret="shpss_y")
+        Product.objects.create(store=s, external_id="1", title="P")
+        path = os.path.join(tempfile.mkdtemp(), "d.json.gz")
+        call_command("dump_demo_data", out=path, stdout=__import__("io").StringIO())
+        raw = gzip.open(path, "rt").read()
+        self.assertNotIn("shpat_x", raw); self.assertNotIn("shpss_y", raw)
+        rows = json.loads(raw)
+        self.assertEqual([r["fields"]["name"] for r in rows if r["model"] == "core.store"], ["Live"])
+        Store.objects.all().delete()
+        call_command("loaddata", path, stdout=__import__("io").StringIO())
+        self.assertEqual(Store.objects.get().name, "Live")
+        self.assertEqual(Product.objects.count(), 1)
