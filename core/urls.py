@@ -3,6 +3,7 @@ from django.urls import path
 from core import views
 
 urlpatterns = [
+    path("config/", views.app_config),
     path("stores/", views.stores),
     path("stores/demo/", views.load_demo_store),
     path("stores/shopify/", views.connect_shopify),

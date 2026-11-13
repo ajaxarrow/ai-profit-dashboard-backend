@@ -32,7 +32,8 @@ def _store_json(s: Store) -> dict:
 def _get_store(request) -> Store:
     sid = request.query_params.get("store") or request.data.get("store") if hasattr(request, "data") else None
     qs = Store.objects.all()
-    store = qs.filter(id=sid).first() if sid else qs.order_by("id").first()
+    # no store given: the live Shopify store wins over the demo data
+    store = qs.filter(id=sid).first() if sid else (qs.filter(platform="shopify").order_by("id").first() or qs.order_by("id").first())
     if not store:
         raise ConnectorError("No store yet. Load the demo data or connect Shopify.")
     return store
@@ -306,3 +307,9 @@ def signal_detail(request, signal_id):
         s.approved_at, s.approved_impact = None, None
     s.save()
     return Response(monitor.serialize_signal(s))
+
+
+@api_view(["GET"])
+def app_config(request):
+    from django.conf import settings
+    return Response({"read_only": settings.READ_ONLY, "as_of": settings.PROFIT_AS_OF or None})

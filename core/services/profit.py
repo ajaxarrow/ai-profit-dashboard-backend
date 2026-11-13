@@ -18,6 +18,7 @@ from collections import defaultdict
 from datetime import date, datetime, timedelta, timezone as dt_timezone
 from decimal import Decimal
 
+from django.conf import settings
 from django.utils import timezone
 
 from core.models import AdDaily, OrderLine, Store
@@ -52,11 +53,17 @@ def _finish_product(p):
     return p
 
 
+def today() -> date:
+    """"Today" for every calculation. PROFIT_AS_OF pins it so a frozen demo dataset never drifts out of its window."""
+    pinned = getattr(settings, "PROFIT_AS_OF", "")
+    return date.fromisoformat(pinned) if pinned else timezone.now().astimezone(dt_timezone.utc).date()
+
+
 def resolve_period(days: int):
     """Window = the last `days` days up to and including today (UTC)."""
-    today = timezone.now().astimezone(dt_timezone.utc).date()
-    start = today - timedelta(days=days - 1)
-    return start, today
+    today_ = today()
+    start = today_ - timedelta(days=days - 1)
+    return start, today_
 
 
 def compute(store: Store, days: int = 30, include_previous: bool = True) -> dict:

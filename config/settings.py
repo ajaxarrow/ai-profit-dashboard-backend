@@ -21,6 +21,7 @@ INSTALLED_APPS = [
 
 MIDDLEWARE = [
     "corsheaders.middleware.CorsMiddleware",
+    "core.middleware.ReadOnlyMiddleware",
     "django.middleware.security.SecurityMiddleware",
     "django.middleware.common.CommonMiddleware",
 ]
@@ -32,7 +33,7 @@ TEMPLATES = []
 DATABASES = {
     "default": {
         "ENGINE": "django.db.backends.sqlite3",
-        "NAME": BASE_DIR / "db.sqlite3",
+        "NAME": os.getenv("DATABASE_PATH") or BASE_DIR / "db.sqlite3",
     }
 }
 
@@ -70,3 +71,11 @@ GEMINI_MODEL = os.getenv("GEMINI_MODEL") or "gemini-3.8-flash"
 
 # ---- Shopify ---------------------------------------------------------------
 SHOPIFY_API_VERSION = os.getenv("SHOPIFY_API_VERSION", "2026-04")
+
+
+# ---- Deployment ------------------------------------------------------------------------------------
+# Public demo mode: the data is a frozen snapshot, so "today" is pinned and writes to stores are blocked.
+PROFIT_AS_OF = os.getenv("PROFIT_AS_OF", "")        # e.g. 2026-11-13; empty = use the real date
+READ_ONLY = os.getenv("READ_ONLY", "0") == "1"
+CSRF_TRUSTED_ORIGINS = [o for o in os.getenv("CSRF_TRUSTED_ORIGINS", "").split(",") if o]
+SECURE_PROXY_SSL_HEADER = ("HTTP_X_FORWARDED_PROTO", "https")  # Render terminates TLS in front of gunicorn
