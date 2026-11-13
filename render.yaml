@@ -1,0 +1,29 @@
+# Render Blueprint for the API. Data is loaded from a fixture on every start, because Render's disk is wiped
+# whenever the service restarts or wakes from sleep.
+services:
+  - type: web
+    name: ai-profit-dashboard-backend
+    runtime: python
+    plan: free
+    buildCommand: pip install -r requirements.txt
+    startCommand: python manage.py migrate --noinput && python manage.py loaddata demo && gunicorn config.wsgi:application --bind 0.0.0.0:$PORT --workers 1 --threads 4 --timeout 180
+    healthCheckPath: /api/config/
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.12.7
+      - key: DJANGO_DEBUG
+        value: "0"
+      - key: DJANGO_SECRET_KEY
+        generateValue: true
+      - key: DJANGO_ALLOWED_HOSTS
+        value: .onrender.com
+      - key: READ_ONLY            # public demo: no connecting, syncing, importing or deleting stores
+        value: "1"
+      - key: PROFIT_AS_OF         # the data is a snapshot; "today" is pinned so the periods never drift away from it
+        value: "2026-11-13"
+      - key: AI_PROVIDERS
+        value: groq,gemini
+      - key: GROQ_API_KEY
+        sync: false
+      - key: GEMINI_API_KEY
+        sync: false
