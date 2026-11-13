@@ -6,6 +6,8 @@ through an AI layer that only reasons over numbers the engine calculated.
 
 Frontend: https://github.com/ajaxarrow/ai-profit-dashboard-frontend
 
+Anwender-Anleitung (Deutsch, Schritt für Schritt durch die Oberfläche): https://github.com/ajaxarrow/ai-profit-dashboard-frontend/blob/main/docs/ANLEITUNG.md
+
 ## Architecture
 ```
 Connectors (one file each)        Normalised tables             Engine                 AI layer
