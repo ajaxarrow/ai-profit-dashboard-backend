@@ -309,7 +309,7 @@ def signal_detail(request, signal_id):
     return Response(monitor.serialize_signal(s))
 
 
-@api_view(["GET"])
+@api_view(["GET", "HEAD"])  # uptime monitors usually probe with HEAD
 def app_config(request):
     from django.conf import settings
     return Response({"read_only": settings.READ_ONLY, "as_of": settings.PROFIT_AS_OF or None})

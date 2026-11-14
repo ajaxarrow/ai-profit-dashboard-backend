@@ -309,3 +309,9 @@ class DeploymentTests(TestCase):
         call_command("loaddata", path, stdout=__import__("io").StringIO())
         self.assertEqual(Store.objects.get().name, "Live")
         self.assertEqual(Product.objects.count(), 1)
+
+
+class HealthCheckTests(TestCase):
+    def test_config_answers_get_and_head_for_uptime_monitors(self):
+        self.assertEqual(self.client.get("/api/config/").status_code, 200)
+        self.assertEqual(self.client.head("/api/config/").status_code, 200)
